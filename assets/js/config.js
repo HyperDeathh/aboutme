@@ -4,16 +4,24 @@ const BADGES = [
     image: "assets/badges/hypesquad_bravery.svg",
   },
   {
-    name: "Subscriber since Jun 29, 2022",
+    name: "Active Developer",
+    image: "assets/badges/activedeveloper.svg",
+  },
+  {
+    name: "Subscriber since Jun 8, 2022",
     image: "assets/badges/nitro.svg",
   },
   {
-    name: "Server boosting Jun 29, 2022",
-    image: "assets/badges/boost.svg",
+    name: "Server boosting Jun 8, 2022",
+    image: "assets/badges/boost12month.svg",
   },
   {
     name: "That's an example! Change in config.js", // Message that appears when you hover over it
     image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
+  },
+  {
+    name: "Originally know as Rhaegar#7777",
+    image: "assets/badges/username.svg",
   },
 ];
 
