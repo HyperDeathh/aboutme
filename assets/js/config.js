@@ -8,16 +8,16 @@ const BADGES = [
     image: "assets/badges/activedeveloper.svg",
   },
   {
+    name: "Early Verified Bot Developer", // Message that appears when you hover over it
+    image: "assets/badges/verified_bot_developer.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
+  },
+  {
     name: "Subscriber since Jun 8, 2022",
     image: "assets/badges/nitro.svg",
   },
   {
     name: "Server boosting Jun 8, 2022",
     image: "assets/badges/boost12month.svg",
-  },
-  {
-    name: "That's an example! Change in config.js", // Message that appears when you hover over it
-    image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   },
   {
     name: "Originally know as Rhaegar#7777",
