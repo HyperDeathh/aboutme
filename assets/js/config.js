@@ -8,7 +8,7 @@ const BADGES = [
     image: "assets/badges/activedeveloper.svg",
   },
   {
-    name: "Early Verified Bot Developer", // Message that appears when you hover over it
+    name: "Early Verified Bot Developer",
     image: "assets/badges/verified_bot_developer.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   },
   {
